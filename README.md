@@ -55,4 +55,8 @@ Includes some interesting code / features working with e.g Microsoft Excel
 ###  Dashboard Preview  
 
 ![Sales Dashboard](https://github.com/user-attachments/assets/9ec2c1a1-2e07-401d-b043-88cb7397dc7f)
-![Screenshot Adidas](https://github.com/user-attachments/assets/814d0fa0-f534-4a26-afbb-dc3afd03886b)
+![Screenshot Adidas](https://github.com/user-attachments/assets/ccb6d5d3-53e9-4c3e-881d-75c2a4c20556)
+
+
+
+

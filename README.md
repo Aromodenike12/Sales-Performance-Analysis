@@ -53,4 +53,6 @@ Includes some interesting code / features working with e.g Microsoft Excel
 - Seasonal trends were not deeply analyzed due to dataset limitations.  
 - Profit analysis is based only on recorded transactions, excluding hidden costs.  
 ###  Dashboard Preview  
-![Dashboard Preview](images/dashboard_preview.jpg)  
+
+![Sales Dashboard](https://github.com/user-attachments/assets/9ec2c1a1-2e07-401d-b043-88cb7397dc7f)
+![Screenshot Adidas](https://github.com/user-attachments/assets/814d0fa0-f534-4a26-afbb-dc3afd03886b)
